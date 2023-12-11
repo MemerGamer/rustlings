@@ -2525,12 +2525,30 @@
       ]
     },
     {
-      "login": "sarupbanskota",
-      "name": "Sarup Banskota",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3149580?v=4",
-      "profile": "https://codecrafters.io",
+      "login": "matthri",
+      "name": "Matthias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67913999?v=4",
+      "profile": "https://github.com/matthri",
       "contributions": [
-        "doc"
+        "code"
+      ]
+    },
+    {
+      "login": "neuschaefer",
+      "name": "J. Neuschäfer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1021512?v=4",
+      "profile": "https://github.com/neuschaefer",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bastianpedersen",
+      "name": "Bastian Pedersen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58905488?v=4",
+      "profile": "https://scooterhacking.org",
+      "contributions": [
+        "content"
       ]
     }
   ],
